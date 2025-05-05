@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">A passionate software developer AI/ML engineer and from India</h3>
 
-- 🌱 I’m currently learning **WEB DEVELOPEMENT AND DATA SCIENCE**
+- 🌱 I’m currently learning **WEB DEVELOPEMENT AND DATA SCIENCE** 
 
 - 💬 Ask me about **MYSQL,MONGODB,POWERBI,TABELEU**
 
