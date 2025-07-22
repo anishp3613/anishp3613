@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPEMENT AND DATA SCIENCE** 
 
-- 💬 Ask me about **MYSQL,MONGODB,POWERBI,TABELEU**
+- 💬 Ask me about **MYSQL,POWERBI,TABELEU**
 
 - 📫 How to reach me **anishphatake8055.2@gmail.com**
 
